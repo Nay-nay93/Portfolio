@@ -1,7 +1,17 @@
 body {
-    background: rgb(211, 194, 194);
-}
+    background: rgb(0, 0, 0);
+    font-family: "Bitter", serif;}
 
 h1 {
     color: white;
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: larger;
+}
+
+p {
+    font-size: medium;
 }
