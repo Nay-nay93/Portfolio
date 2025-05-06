@@ -1,5 +1,5 @@
 body {
-    background: rgb(0, 0, 0);
+    background: rgb(188, 171, 171);
     font-family: "Bitter", serif;}
 
 h1 {
@@ -7,8 +7,12 @@ h1 {
     font-weight: bold;
 }
 
+.hero {
+    background: #D3C2C2;
+}
+
 h2 {
-    font-weight: 300;
+    font-weight: bold;
     font-size: larger;
 }
 
