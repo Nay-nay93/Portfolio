@@ -25,3 +25,10 @@ h2 {
 p {
     font-size: medium;
 }
+
+footer {
+    text-align: center;
+    color: white;
+    font-size: small;
+    font-family: "Bitter", serif;
+}
