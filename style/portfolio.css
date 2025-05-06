@@ -11,6 +11,12 @@ h1 {
     background: #D3C2C2;
 }
 
+.project-image {
+    max-width: 75%;
+    height: auto;
+    margin: 0 auto;
+}
+
 h2 {
     font-weight: bold;
     font-size: larger;
