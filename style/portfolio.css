@@ -1,6 +1,8 @@
 body {
     background: rgb(188, 171, 171);
-    font-family: "Bitter", serif;}
+    font-family: "Bitter", serif;
+    color: white;
+text-decoration: none;}
 
 h1 {
     color: white;
@@ -31,4 +33,9 @@ footer {
     color: white;
     font-size: small;
     font-family: "Bitter", serif;
+}
+
+.email {
+    font-weight: bold;
+    font-size: 20px;
 }
