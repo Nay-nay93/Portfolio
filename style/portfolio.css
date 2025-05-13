@@ -35,7 +35,9 @@ footer {
     font-family: "Bitter", serif;
 }
 
-.email {
+.email,
+.link  {
     font-weight: bold;
     font-size: 20px;
 }
+
